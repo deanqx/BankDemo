@@ -45,9 +45,13 @@ Führe diese beiden Befehle jeweils in zwei seperaten Windows Terminals aus:
 
 # Vorschau
 
+### Server
+
 ![Server startet](screenshots/server_startup.png)
 
 ![Server Befehlliste](screenshots/server_help.png)
+
+## Client
 
 ![Eigenen Nutzer erstellen](screenshots/create_user.png)
 
