@@ -1,0 +1,32 @@
+plugins {
+    id 'application'
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_17  // or whatever version you need
+    targetCompatibility = JavaVersion.VERSION_17
+}
+
+application {
+    mainClass = 'net.BankDemo.Engine.Main'
+}
+
+jar {
+    manifest {
+        attributes(
+            'Main-Class': application.mainClass
+        )
+    }
+}
+
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src']
+        }
+        resources {
+            srcDir 'Images'
+            include '**/*.png'
+        }
+    }
+}

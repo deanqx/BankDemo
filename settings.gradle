@@ -1,0 +1,5 @@
+rootProject.name = 'BankDemo'   
+
+include('BankDemo')
+include('BankDemoServer')
+include('Updater')
