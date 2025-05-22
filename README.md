@@ -51,7 +51,7 @@ Führe diese beiden Befehle jeweils in zwei seperaten Windows Terminals aus:
 
 ![Server Befehlliste](screenshots/server_help.png)
 
-## Client
+### Client
 
 ![Eigenen Nutzer erstellen](screenshots/create_user.png)
 
