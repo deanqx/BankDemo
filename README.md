@@ -25,6 +25,7 @@ Technische Besonderheiten:
 - Keine Datenbank: Alle Daten werden in lokalen Dateien gespeichert
 - Automatischer Updater
 - Unterstützung für verschiedene Sprachen
+- Plugins
 - ...
 
 # Build and Run
